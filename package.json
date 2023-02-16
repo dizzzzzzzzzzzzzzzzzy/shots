@@ -1,0 +1,16 @@
+{
+  "name": "@fire-ball/shots",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "preinstall": "echo \"Cheers!!\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://https://github.com/dizzzzzzzzzzzzzzzzzy/shots"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
